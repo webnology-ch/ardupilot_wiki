@@ -81,7 +81,7 @@ packages:
 ::
 
     sudo apt-get update    #Update the list of packages in the software center
-    sudo apt-get install python3-dev python3-opencv python3-wxgtk3.0 libxml2-dev python3-pip python3-matplotlib python3-lxml
+    sudo apt-get install python3-dev python3-opencv python3-wxgtk4.0 libxml2-dev python3-pip python3-matplotlib python3-lxml
     sudo pip3 install future
     sudo pip3 install pymavlink
     sudo pip3 install mavproxy
